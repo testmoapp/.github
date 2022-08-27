@@ -11,3 +11,14 @@
 * [GitHub Actions Test Automation CI Pipeline](https://www.testmo.com/guides/github-actions-test-automation)
 * [GitHub Actions Parallel Test Automation Jobs](https://www.testmo.com/guides/github-actions-parallel-testing)
 * [GitHub Actions & Selenium Guide](https://www.testmo.com/guides/github-actions-selenium)
+
+### GitLab CI/CD
+
+* [GitLab CI/CD Test Automation Pipeline](https://www.testmo.com/guides/gitlab-ci-test-automation)
+* [GitLab CI/CD Parallel Test Automation Jobs](https://www.testmo.com/guides/gitlab-ci-parallel-test-automation)
+
+### Other CI platforms
+
+* **CircleCI:** [CircleCI Test Automation CI Pipeline](https://www.testmo.com/guides/circleci-test-automation), [CircleCI Parallel Test Automation](https://www.testmo.com/guides/circleci-parallel-test-automation)
+* **Bitbucket:** [Bitbucket CI Pipelines Test Automation](https://www.testmo.com/guides/bitbucket-ci-pipelines-test-automation), [Bitbucket CI Parallel Test Automation](https://www.testmo.com/guides/bitbucket-ci-parallel-test-automation-pipelines)
+* **Jenkins:** [Jenkins CI Test Automation Pipeline](https://www.testmo.com/guides/jenkins-ci-test-automation)
