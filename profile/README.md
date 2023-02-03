@@ -8,7 +8,7 @@
 
 ### Test automation tools
 
-* [Complete Guide To Selenium Test Automation](https://www.testmo.com/guides/selenium-test-automation-reporting) (repo: `[example-selenium-test-automation-reporting](testmoapp/example-selenium-test-automation-reporting)`)
+* [Complete Guide To Selenium Test Automation](https://www.testmo.com/guides/selenium-test-automation-reporting) (repo: `[example-selenium-test-automation-reporting](https://github.com/testmoapp/example-selenium-test-automation-reporting)`)
 
 ### GitHub Actions & CI
 
